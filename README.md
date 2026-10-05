@@ -2,8 +2,6 @@
 
 A compact multimodal biomedical scanning prototype for collecting residual-limb geometry and complementary sensor measurements to support customized prosthetic development.
 
-> **Status:** Prototype / research demonstrator. This repository contains an open-source reference implementation and synthetic sample data. It is **not a clinically validated medical device** and must not be used as the sole basis for clinical decisions or prosthetic fabrication.
-
 ## Problem
 Manual residual-limb measurement and casting can be time-consuming and may require repeated adjustments. Pro-Fit Scanner explores a portable digital workflow combining non-contact distance sensing with pressure, load and orientation measurements.
 
