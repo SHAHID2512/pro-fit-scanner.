@@ -90,18 +90,6 @@ A complete scanner needs distance measurements plus sensor pose. Each calibrated
 - Battery operation
 - Serial communication
 
-## 10. Risks
-
-| Risk | Mitigation |
-|---|---|
-| Sensor noise | Filtering/calibration |
-| Drift | Periodic calibration |
-| Limb movement | IMU and controlled scanning |
-| Poor surface response | Sensor-specific compensation |
-| Incorrect geometry | Reference-object validation |
-| Patient-data exposure | De-identification/access control |
-| Mechanical instability | Rigid mounting |
-
 ## 11. Future work
 - Point-cloud reconstruction
 - Real-time 3D visualization
