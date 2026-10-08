@@ -152,14 +152,5 @@ timestamp_ms,tof_mm,pressure_kpa,load_kg,imu_x,imu_y,imu_z
 - [Test Cases](docs/TEST_CASES.md)
 - [Architecture Diagram](docs/architecture_diagram.svg)
 
-## Limitations
-- Not clinically validated.
-- Sample data is synthetic.
-- Sparse sensor rows alone do not constitute a clinically accurate 3D model.
-- Accuracy depends on sensor mounting, calibration, surface properties and environment.
 
-## Safety
-This repository is for engineering research and prototyping. Before real-world clinical deployment, qualified teams should validate accuracy, repeatability, electrical safety, patient-contact materials, cybersecurity and applicable regulatory requirements.
 
-## License
-MIT License. See [LICENSE](LICENSE).
